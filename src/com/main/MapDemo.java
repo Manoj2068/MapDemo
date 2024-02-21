@@ -8,6 +8,7 @@ public class MapDemo {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		System.out.println("hello jitendra how are you");
+		System.out.println("hello manoj");
 		Map<Integer, String> mp = new HashMap<>();
 		mp.put(101, "Manoj");
 		mp.put(102,"Hari");
